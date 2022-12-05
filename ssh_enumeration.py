@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # CVE-2018-15473 SSH User Enumeration by Leap Security (@LeapSecurity) https://leapsecurity.io
 # Credits: Matthew Daley, Justin Gardner, Lee David Painter
-
+# ExploitD-DB: 45939.py
 
 import argparse, logging, paramiko, socket, sys, os
 
