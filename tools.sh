@@ -1,4 +1,5 @@
 #!/bin/bash
+# Script de instalação das minhas ferramentas de Pentest
  
 updatedb
  
